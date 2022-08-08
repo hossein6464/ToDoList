@@ -9,7 +9,10 @@ Users can add, delete or update ToDo Lists items.
 * Created Model for to-do list items.
 * Used Functional-Based Views instead of Class-Bases views for their simplicity.
 
-  .
+ Note: To Run the project after Downloading the project
+ * Open it with your favroite IDEA
+ * Make sure to have python installed
+ * Open the Idea Terminal and type py manage.py runserver
 
 ![image](https://user-images.githubusercontent.com/46323727/183319409-5a900c3c-b098-4eaf-ab83-6de4f1cb6c84.png)
 
