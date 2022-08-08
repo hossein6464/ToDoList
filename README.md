@@ -5,8 +5,9 @@ To-do List is a simple Web Service that allows users to record simple tasks an
 The project was developed as part of a research project for the school. Languages Used are Python, Html, CSS, and Django
 
 Users can add, delete or update ToDo Lists items.
-    * Created Model for to-do list items.
-    * Used Functional-Based Views instead of Class-Bases views for their simplicity.
+
+* Created Model for to-do list items.
+* Used Functional-Based Views instead of Class-Bases views for their simplicity.
 
   .
 
